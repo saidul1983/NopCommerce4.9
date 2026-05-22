@@ -114,5 +114,6 @@
     <UserSecretsId>64158620-d70d-4afe-9f56-c3347ce497fa</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..</DockerfileContext>
+    <DockerComposeProjectPath>..\..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 </Project>
